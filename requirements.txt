@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+scikit-learn
+joblib
+pydantic
+python-dotenv
+google-generativeai
